@@ -1,2 +1,2 @@
-# DIO-desafio-de-c-digo-primeiro-reposit-rio
+# DIO-desafio-de-codigo-primeiro-repositorio
 Desafio de git/github
